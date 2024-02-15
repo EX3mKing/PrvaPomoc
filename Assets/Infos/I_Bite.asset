@@ -14,3 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   information:
   - ZAZATRON
+  - not zaza
+  image:
+  - {fileID: 21300000, guid: c9dae68ca0d0c1e428c889acd669cec0, type: 3}
+  - {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}

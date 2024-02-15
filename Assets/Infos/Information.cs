@@ -5,4 +5,5 @@ using UnityEngine;
 public class Information : ScriptableObject
 {
     public List<string> information;
+    public List<Sprite> image;
 }
