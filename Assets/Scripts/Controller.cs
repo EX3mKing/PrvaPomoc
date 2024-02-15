@@ -1,9 +1,11 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices.WindowsRuntime;
+using TMPro;
 using UnityEngine;
 
-public class Swipe : MonoBehaviour
+public class Controller : MonoBehaviour
 {
     private Vector2 touchStart;
     private Vector2 touchEnd;
@@ -11,6 +13,9 @@ public class Swipe : MonoBehaviour
 
     public List<GameObject> pages;
     private int currentPage = 0;
+
+    public GameObject GuideCanvas;
+
     private void Update()
     {
         if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began)
@@ -54,6 +59,18 @@ public class Swipe : MonoBehaviour
         {
             page.SetActive(false);
         }
+        pages[currentPage].SetActive(true);
+    }
+    
+    public void Load(Information info)
+    {
+        GuideCanvas.SetActive(true);
+        pages[currentPage].SetActive(false);
+    }
+    
+    public void ToMainMenu()
+    {
+        GuideCanvas.SetActive(false);
         pages[currentPage].SetActive(true);
     }
 }
