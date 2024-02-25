@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 787f3feca66bebb47bb3e475500b8aad, type: 3}
+  m_Name: I_Burns
+  m_EditorClassIdentifier: 
+  title:
+  - 1. Ohladiti ispod izvora vode
+  - "2. Skinuti vru\u0107u/vla\u017Enu odje\u0107u"
+  - "3. Skinuti nakit / usku odje\u0107u"
+  - "4. Blijed ili se osje\u0107a lo\u0161e"
+  - 5. Za velike opekline
+  - 6. Postaviti lagani zavoj
+  information:
+  - 
+  - 
+  - 
+  - "Podi\u0107i mu noge na visinu i pole\u0107i ga"
+  - "Dugo hla\u0111enje velikih opeklina mo\u017Ee izazvati hipotermiju"
+  - "Staviti sterilizirani lagani zavoj Promijeniti ga \u010Desto"
+  image:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

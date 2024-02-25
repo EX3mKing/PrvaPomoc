@@ -4,6 +4,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "I_", menuName = "ScriptableObjects/Information", order = 1)]
 public class Information : ScriptableObject
 {
+    public List<string> title;
     public List<string> information;
     public List<Sprite> image;
 }

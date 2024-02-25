@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 787f3feca66bebb47bb3e475500b8aad, type: 3}
+  m_Name: I_CPR
+  m_EditorClassIdentifier: 
+  title:
+  - "1.Provjera opasnosti i zvanje hitne pomo\u0107i"
+  - "2.Provjerite odgovara li unesre\u0107ena osoba"
+  - "3.\u010Cisti zra\u010Dni putevi"
+  - "4.Ukoliko osoba ne di\u0161e zapo\u010Dnite reanimaciju unesre\u0107enog"
+  - "5.Dajte unesre\u0107enome 30 pritisaka"
+  - "7.Dajte osobi udisaje za spa\u0161avanje"
+  - 8.Nastavite reanimaciju
+  - "9.Ako di\u0161e unesre\u0107eni di\u0161e normalno"
+  - 10.Ako je osoba pri svjesti
+  information:
+  - "Prije pru\u017Eanja prve pomo\u0107i provjeri ima li mogu\u0107ih prijetnji
+    lii opasnost, pripazite na va\u0161u sigurnost i sigurnost unesre\u0107ene osobe "
+  - ' '
+  - "Otvorite unesre\u0107enima usta da mogu normalno disati ukoliko im ne\u0161to
+    to onemogu\u0107uje i okrenite ih na desni bok. "
+  - "Ukoliko niste obu\u010Deni za prvu pomo\u0107 odmah nazovite hitnu pomo\u0107
+    ako ve\u0107 niste Stavite jednu ruku na prsa unesre\u0107enoga/e sa prstima
+    preko prsa"
+  - "Promjenite ruku na dnu svake dvije do 3 minute radi smanjenja umora Va\u0161a
+    ramena moraju biti vertikalno iznad dlanova Koljena blizu unesre\u0107enoga Ruka
+    iznad ruke Ravne ruke sa uko\u010Denim laktovima Gurajte 1/3 dubine prsa Brzina
+    mora biti 100-120 pritisaka po minuti"
+  - "U tom polo\u017Eaju, s otvorenim di\u0161nim putevima, stisnite nos osobe i
+    zatvorite joj usta svojim Nakon prve sekunde udaha za spa\u0161avanje provjerite
+    pomi\u010Du li se prsa \u017Ertve Ako osoba ne reagira, udahnite drugi put za
+    spa\u0161avanje Svaki drugi udisaj treba biti pra\u0107en 30 kompresija prsnog
+    ko\u0161a Udisaji za spa\u0161avanje trebaju biti blagi"
+  - 
+  - "Okrenuti ga na desni bok ako niste u slu\u010Daju znakova povra\u0107anja, krvi
+    ili drugih slu\u010Dajeva "
+  - " Postaviti u udobnu poziciju Tretirati druge ozlijede ako postoje Pomo\u0107i
+    drugima u potrebi"
+  image:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

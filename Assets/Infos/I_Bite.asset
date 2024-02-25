@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 787f3feca66bebb47bb3e475500b8aad, type: 3}
   m_Name: I_Bite
   m_EditorClassIdentifier: 
+  title:
+  - ZZ
+  - AA
   information:
   - ZAZATRON
   - not zaza

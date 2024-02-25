@@ -16,6 +16,7 @@ public class Controller : MonoBehaviour
 
     public GameObject GuideCanvas;
     public Image descriptionImage;
+    public TextMeshProUGUI descriptionTitle;
     public TextMeshProUGUI descriptionText;
     public TextMeshProUGUI descriptionNumberText;
     private int currentInfo = 0;
@@ -74,6 +75,7 @@ public class Controller : MonoBehaviour
     private void SwipeDescription(int amount)
     {
         currentInfo += amount;
+        descriptionTitle.text = curInfo.title[currentInfo];
         descriptionImage.sprite = curInfo.image[currentInfo];
         descriptionText.text = curInfo.information[currentInfo];
         descriptionNumberText.text = currentInfo + 1 + "/" + curInfo.information.Count;
@@ -84,6 +86,7 @@ public class Controller : MonoBehaviour
         GuideCanvas.SetActive(true);
         pages[currentPage].SetActive(false);
         curInfo = info;
+        descriptionTitle.text = curInfo.title[currentInfo];
         descriptionImage.sprite = curInfo.image[currentInfo];
         descriptionText.text = curInfo.information[currentInfo];
         SwipingInDescription = true;
@@ -96,5 +99,6 @@ public class Controller : MonoBehaviour
         pages[currentPage].SetActive(true);
         curInfo = null;
         SwipingInDescription = false;
+        currentInfo = 0;
     }
 }
