@@ -16,7 +16,7 @@ MonoBehaviour:
   - "1.Provjera opasnosti i zvanje hitne pomo\u0107i"
   - "2.Provjerite odgovara li unesre\u0107ena osoba"
   - "3.\u010Cisti zra\u010Dni putevi"
-  - "4.Ukoliko osoba ne di\u0161e zapo\u010Dnite reanimaciju unesre\u0107enog"
+  - "4.Ukoliko osoba ne di\u0161e zapo\u010Dnite reanimaciju"
   - "5.Dajte unesre\u0107enome 30 pritisaka"
   - "7.Dajte osobi udisaje za spa\u0161avanje"
   - 8.Nastavite reanimaciju
@@ -46,12 +46,12 @@ MonoBehaviour:
   - " Postaviti u udobnu poziciju Tretirati druge ozlijede ako postoje Pomo\u0107i
     drugima u potrebi"
   image:
+  - {fileID: 21300000, guid: 6d700a1ac6d04824e9b247c45b7d5876, type: 3}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 21300000, guid: 3d92fe0cd757198418719fbe1e6dad3b, type: 3}
   - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 21300000, guid: 3d92fe0cd757198418719fbe1e6dad3b, type: 3}
+  - {fileID: 21300000, guid: 0b363dee631c128478d3ee33323e2532, type: 3}
   - {fileID: 0}

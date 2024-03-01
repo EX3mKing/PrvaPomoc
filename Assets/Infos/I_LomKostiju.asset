@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 787f3feca66bebb47bb3e475500b8aad, type: 3}
+  m_Name: I_LomKostiju
+  m_EditorClassIdentifier: 
+  title:
+  - 1. Imobilizirajte ozlijedu
+  - 2. Stavite hladni oblog
+  - 3. Pratite vitalne znakove
+  - "4. Potra\u017Eite medicinsku pomo\u0107"
+  information:
+  - "Imobilizirajte ozlije\u0111eni dio tijela pomo\u0107u splinta ili zavoja"
+  - "Stavite hladni oblog na ozlije\u0111eno podru\u010Dje kako biste smanjili oticanje
+    i bol"
+  - 
+  - 
+  image:
+  - {fileID: 21300000, guid: bfcfc659685f62748aa921b45f8fad84, type: 3}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 2933bbea93320124b9646699f779d442, type: 3}
+  - {fileID: 21300000, guid: 6d700a1ac6d04824e9b247c45b7d5876, type: 3}

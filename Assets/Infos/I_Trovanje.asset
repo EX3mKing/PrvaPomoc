@@ -10,17 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 787f3feca66bebb47bb3e475500b8aad, type: 3}
-  m_Name: I_Bite
+  m_Name: I_Trovanje
   m_EditorClassIdentifier: 
   title:
-  - 1. Isperite ranu
-  - 2. Zaustavite krvarenje
-  - "3. Potra\u017Eite medicinsku pomo\u0107"
+  - 1. Identificirajte otrov
+  - "2. Pozovite hitnu pomo\u0107"
+  - "3. Za otrov u o\u010Dima"
   information:
-  - Isperite ranu toplom vodom i sapunom.
-  - Zaustavite krvarenje stavljanjem sterilnog zavoja.
-  - "Potra\u017Eite medicinsku pomo\u0107 za procjenu rizika od zaraze"
+  - 
+  - 
+  - "Isperite velikom koli\u010Dinom vode"
   image:
-  - {fileID: 21300000, guid: 9b40d29912a8e2d41a001fd4dd4e99d0, type: 3}
-  - {fileID: 21300000, guid: dda73cb59d8ecf547ad53513ee3b2939, type: 3}
+  - {fileID: 21300000, guid: c8cc5dc20975c78479b51c2791d54426, type: 3}
   - {fileID: 21300000, guid: 6d700a1ac6d04824e9b247c45b7d5876, type: 3}
+  - {fileID: 21300000, guid: ab7bcedb6482e2442b395ddba628cae6, type: 3}

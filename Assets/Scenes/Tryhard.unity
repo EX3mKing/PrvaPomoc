@@ -2742,7 +2742,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 374152631}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 72488777}
+        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+        m_MethodName: LoadInfo
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 4d7225a4ff2695b46bd10463a5d89d0e, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Information, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &374152631
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5513,7 +5525,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 800764167}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 72488777}
+        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+        m_MethodName: LoadInfo
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 26e82214ce3bcb440b6583d7c5c543cc, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Information, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &800764167
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5636,7 +5660,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 820550368}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 72488777}
+        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+        m_MethodName: LoadInfo
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: f049680805d264a4fa680098a8e480c5, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Information, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &820550368
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6422,7 +6458,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 956515831}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 72488777}
+        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+        m_MethodName: LoadInfo
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 51a95c070fb92f646a480ce2991026cd, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Information, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &956515831
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7509,7 +7557,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1083422359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7940,7 +7988,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1127535505}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 72488777}
+        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+        m_MethodName: LoadInfo
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 907ba101e23fdc14ca6a8bf33d743c23, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Information, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1127535505
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9662,7 +9722,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1397600974}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 72488777}
+        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+        m_MethodName: LoadInfo
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 9e2d5e84ffa41aa47929367ce1aee656, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Information, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1397600974
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10196,7 +10268,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1452090111}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 72488777}
+        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+        m_MethodName: LoadInfo
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 6aa67c2e212bf6d4fa8aae511450d6a1, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Information, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1452090111
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10459,7 +10543,7 @@ GameObject:
   - component: {fileID: 1477243805}
   - component: {fileID: 1477243804}
   m_Layer: 5
-  m_Name: "Button Sr\u010Dani"
+  m_Name: "Button - Sr\u010Dani"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11045,7 +11129,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1553108582}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 72488777}
+        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+        m_MethodName: LoadInfo
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 56d77b2cd28d25743ad5e7ca92bdfa50, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Information, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1553108582
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11409,7 +11505,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1667606593}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 72488777}
+        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+        m_MethodName: LoadInfo
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 5a3dc9979ee8b8c44a8750b107611dfe, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Information, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1667606593
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12043,7 +12151,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1768364500}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 72488777}
+        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+        m_MethodName: LoadInfo
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: d25129040b7f281498f3d80fd4a9fb32, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Information, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1768364500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13224,7 +13344,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1926660380}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 72488777}
+        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+        m_MethodName: LoadInfo
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 407425267cb5b39478e9eea834e0f735, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Information, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1926660380
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13657,7 +13789,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1995995600
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14460,7 +14592,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2097659207}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 72488777}
+        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+        m_MethodName: LoadInfo
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 29a0184d6a5e70b49a1b6d46b5266302, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Information, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2097659207
 MonoBehaviour:
   m_ObjectHideFlags: 0

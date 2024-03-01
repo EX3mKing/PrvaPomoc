@@ -10,17 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 787f3feca66bebb47bb3e475500b8aad, type: 3}
-  m_Name: I_Bite
+  m_Name: I_Dijabetes
   m_EditorClassIdentifier: 
   title:
-  - 1. Isperite ranu
-  - 2. Zaustavite krvarenje
-  - "3. Potra\u017Eite medicinsku pomo\u0107"
+  - "1. Pru\u017Eite osobi \u0161e\u0107er"
+  - 2. Dajte osobi glukagon
+  - "3. Pozovite hitnu pomo\u0107"
   information:
-  - Isperite ranu toplom vodom i sapunom.
-  - Zaustavite krvarenje stavljanjem sterilnog zavoja.
-  - "Potra\u017Eite medicinsku pomo\u0107 za procjenu rizika od zaraze"
+  - "Pru\u017Eite osobi \u0161e\u0107er u obliku tablete, soka ili slatkog vo\u0107a"
+  - Ako je osoba nesvjesna, dajte joj glukagon (ako je dostupan)
+  - "Pozovite hitnu pomo\u0107 ako se stanje ne pobolj\u0161a"
   image:
-  - {fileID: 21300000, guid: 9b40d29912a8e2d41a001fd4dd4e99d0, type: 3}
-  - {fileID: 21300000, guid: dda73cb59d8ecf547ad53513ee3b2939, type: 3}
+  - {fileID: 21300000, guid: 48408028fc3d15c4cb7124da6859fda1, type: 3}
+  - {fileID: 0}
   - {fileID: 21300000, guid: 6d700a1ac6d04824e9b247c45b7d5876, type: 3}
